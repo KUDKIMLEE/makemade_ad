@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/rank.js": {
-      "maxDuration": 60
-    }
-  }
-}
